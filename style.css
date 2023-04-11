@@ -16,10 +16,10 @@ body {
     rgba(0, 0, 0, 0.7), 
     rgba(0, 0, 0, 0.7)),
     url(./assets/background.jpeg);
-  max-width: 500px;
+  max-width: 600px;
   background-size: cover;
   background-position: center;
-  padding: 60px;
+  padding: 40px 0;
   margin: 200px auto 0;
   text-align: center;
   color: white;
